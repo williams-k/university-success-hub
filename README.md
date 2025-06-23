@@ -55,7 +55,7 @@ university-success-hub/
 ## 💻 How to View It
 
 1. Download or clone this repository.
-2. Open `UniPageV47.html` in any modern web browser.
+2. Open `index.html` in any modern web browser.
 
 No setup required — it’s 100% static!
 
