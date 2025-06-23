@@ -46,7 +46,7 @@ This site breaks down academic success into actionable modules that help student
 
 ```plaintext
 university-success-hub/
-├── UniPageV47.html          # Main HTML file
+├── index.html               # Main HTML file
 ├── README.md                # This file
 ├── /screenshots/            # Contains preview images
 └── /assets/                 # (Optional) For custom styles/scripts
